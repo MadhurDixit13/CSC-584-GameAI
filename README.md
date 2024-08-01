@@ -3,12 +3,12 @@
 ## Project Overview
 This project, developed for the Building Game AI course (CSC584), involves various AI techniques used in games like movement,path finding, path following, decision trees.
 
-##Sections:
-###Section 1:
+## Sections:
+### Section 1:
 This section contains an intro to the SFML library of C++ and setting up a basic game window with our sprite.
-###Section2:
+### Section2:
 This section contains various steering behaviours like arrive, align, wander, velocity-matching, collision detection and avoidance and an implementation of boids flocking algorithm in the end.
-###Section2:
+### Section2:
 This section contains implementation shortest path finding algorithms between 2 points and their performance comparision. The 2 algorithms used are dijkstras and A*
 
 ## How to Run
